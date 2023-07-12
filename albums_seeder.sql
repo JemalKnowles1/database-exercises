@@ -1,0 +1,20 @@
+INSERT INTO albums1 (title, artist, sales)
+VALUES
+    ('Thriller', 'Michael Jackson', 66),
+    ('Rich Flex', 'Drake, 21 Savage', 38),
+    ('Impala', 'Young Nudy', 45),
+    ('Nevada', 'Young Boy', 50),
+    ('SuperStar Sh*t', 'Dominic Fike', 45),
+    ('JUST2', 'O2WorldWide', 43),
+    ('Will SMYTH', 'SMYTH', 45),
+    ('Icarus', 'Planet Giza', 40),
+    ('Neryeda', 'Los Adventuros', 45),
+    ('Step 2 Me', 'PHABO', 40),
+    ('Hotline', 'bLack pArty', 37),
+    ('SATIN', 'Destin Conrad', 30),
+    ('Gonna Bleach My Eyebrows', 'Alemeda', 32),
+    ('Brent Faiyaz', 'Heal Your Heart', 33),
+    ('21', 'Adele', 31),
+    ('Denver', 'Jack Harlow', 30),
+    ('VILLAINS THEME', 'Brent Faiyaz', 30),
+    ('Rodeo Clown', 'Dijon', 32);
